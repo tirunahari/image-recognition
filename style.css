@@ -1,0 +1,20 @@
+body {
+    background-image:linear-gradient(#4834d4,#5352ed,#e056fd,#be2edd) ;
+
+}
+h1 {
+    color: #FDA7DF;
+    font-family:papyrus;
+    font-weight: bold;
+
+}
+#k {
+    height: 30px;
+    background-color: darkblue;
+    color:white;
+}
+p {
+    color: white;
+    font-size: 20px;
+    font-family: fantasy;
+}
